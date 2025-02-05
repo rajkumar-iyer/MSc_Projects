@@ -10,34 +10,55 @@ Welcome to my MSc project repository! This repository showcases the collection o
 This repository includes the following projects:
 
 ### Advanced Vehicle Dynamics
-A detailed analysis of vehicle dynamics concepts, including suspension design, tire modeling, and stability control. Key highlights include:
-- Simulation of vehicle handling and ride performance.
+The coursework in this module focused on three key areas:
+
+1. Tire Model
+F-Tire, RMOD-K, and Tame Tire models were explored to understand tire dynamics and their impact on vehicle handling and performance.
+2. Suspension Optimization
+Focused on the modeling and simulation of suspension systems. Optimization principles were applied to enhance suspension performance using Single Degree of Freedom (SDOF), Two Degrees of Freedom (2DOF), and Four Degrees of Freedom (4DOF) models.
+3. Derivatives and Bicycle Model
+Calculated and compared yaw rate response to a step steer input using parameters of neutral steering and a critically damped vehicle model.
+Performed derivative analysis and derived key parameters.
+Developed ADAMS models and compared results with derivative analysis.
 
 ### Advanced Powertrain Engineering
-Exploration of powertrain systems for both conventional and electric vehicles, covering efficiency optimization and energy management. Key contributions:
-- Design and analysis of hybrid and electric powertrains.
-- Simulation-based evaluation of powertrain performance.
+This module included two primary areas of focus:
+
+1. Modeling and Simulation of an Euro IV Vehicle
+Developed a model to estimate fuel economy and emission levels for various legislative and real-world drive cycles.
+Identified key parameters that affect fuel efficiency and emissions, providing insight into optimizing powertrain systems.
+2. Hybrid Electric Vehicle Powertrain Model and Control Strategy
+Discussed the design and control strategies for hybrid electric vehicle (HEV) powertrains, including energy management and optimization techniques.
 
 ### Crash Impact and Modeling
-Investigation into crash dynamics and occupant safety using finite element analysis (FEA). Key deliverables:
-- Development of crash simulations for structural analysis using ANSYS.
-- Evaluation of energy absorption and deformation patterns.
+The crash impact coursework focused on the Crash Analysis of a Battery Enclosure:
+
+Conducted physical crash tests and simulations using LS-DYNA to evaluate the durability and performance of a battery enclosure made from composite materials.
+Focused on assessing the effectiveness of the impact attenuator and ensuring the battery's structural integrity under crash conditions.
 
 ### Noise, Vibration, and Harshness (NVH)
-An in-depth study of NVH characteristics in automotive systems. This project focused on:
-- Identifying sources of noise and vibration in vehicle components.
-- Proposing mitigation strategies through testing and modeling.
+The NVH coursework covered two main projects:
+
+1. Design and Development of a Tuned Vibration Absorber
+Focused on reducing flexural vibrations on a beam by designing and developing a tuned vibration absorber.
+2. Acoustic Analysis of Car Cavity
+Analyzed the acoustic behavior within the car cavity, focusing on noise and vibration control.
 
 ### Electric Vehicles
-Comprehensive work on the design, modeling, and control of electric vehicles (EVs). The project includes:
-- Battery management system design and thermal analysis.
-- Regenerative braking system modeling using MATLAB/Simulink.
+The electric vehicle module was divided into two coursework projects:
+
+1. Inverter Operation and Regenerative Braking Circuit
+In-depth exploration of the operation and working principles of the inverter and regenerative braking circuits in electric vehicles.
+2.  Cell Balancing Techniques
+Discussed various cell balancing techniques for battery management.
+Simulated and analyzed issues related to battery pack models without cell balancing circuits.
 
 ## MSc Dissertation
 **Title**: Simulation of Autonomous Vehicles in Virtual Environment  
-- Focused on developing high-fidelity simulations for autonomous vehicle systems.
-- Implemented virtual testing environments to evaluate perception, planning, and control algorithms.
-- Received distinction for this dissertation, highlighting its relevance to autonomous vehicle technology.
+
+1. Focused on developing high-fidelity simulations for autonomous vehicle systems.
+2. Implemented virtual testing environments to evaluate perception, planning, and control algorithms.
+3. Received distinction for this dissertation, highlighting its relevance to autonomous vehicle technology.
 
 ## Skills and Tools Highlighted in These Projects
 - **Software & Tools**: ADAMS, ANSYS, CATIA v5, Gazebo, GT Suite, IPG CarMaker, LS Dyna, NI Multisim, SolidWorks.  
